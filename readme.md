@@ -6,7 +6,7 @@ Congrats for finding this meaningless project!
 
 This project is created because a newbie wants to learn how to use git.
 
-content, content, contents.
+contents, contents, contents.
 
 * Switched to a new branch : **master**
 * Switched to a new branch : **dev**
