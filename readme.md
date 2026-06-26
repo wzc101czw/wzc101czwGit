@@ -27,3 +27,7 @@ int main()
 $L^AT_EX$
 
 # FAQ
+
+### Q: What is a question?
+
+### A: This is an answer.
