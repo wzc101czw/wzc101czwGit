@@ -8,7 +8,7 @@ This project is created because a newbie wants to learn how to use git.
 
 content, content, contents.
 
-* Enter a new branch : **dev**
+* Switched to a new branch : **master**
 
 1. item 1
 
