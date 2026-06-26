@@ -31,3 +31,8 @@ $L^AT_EX$
 ### Q: What is a question?
 
 ### A: This is an answer.
+
+
+### Q: How to ask a question?
+
+### A: See [This (Chinese Ver.)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
