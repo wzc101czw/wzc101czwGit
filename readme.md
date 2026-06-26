@@ -8,6 +8,8 @@ This project is created because a newbie wants to learn how to use git.
 
 content, content, contents.
 
+* Enter a new branch : **dev**
+
 1. item 1
 
 2. item 2
