@@ -11,7 +11,7 @@ content, content, contents.
 * Switched to a new branch : **master**
 * Switched to a new branch : **dev**
 
-* Experimental features developing...
+* More experimental features developing...
 
 1. item 1
 
